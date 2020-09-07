@@ -1,0 +1,53 @@
+[
+ {
+ "title":"Camara",
+ "imageName":"camera",
+ "numCell":1
+ },
+ {
+ "title":"Foto",
+ "imageName":"photo",
+ "numCell":1
+ },
+ {
+ "title":"Nombre completo",
+ "imageName":"name",
+ "numCell":1
+ },
+ {
+ "title":"Número telefónico",
+ "imageName":"phone",
+ "numCell":1
+ },
+ {
+ "title":"Fecha de nacimiento",
+ "imageName":"birth",
+ "numCell":1
+ },
+ {
+ "title":"Sexo",
+ "imageName":"sex",
+ "numCell":2,
+ "element":[
+            {
+            "text":"Femenino"
+            },
+            {
+            "text":"Masculino"
+            }
+            ]
+ },
+ {
+ "title":"Color",
+ "imageName":"color",
+ "numCell":5,
+ "element":[
+            {
+            "text":"Negro"
+            },
+            {
+            "text":"Rojo"
+            }
+            ]
+ }
+ ]
